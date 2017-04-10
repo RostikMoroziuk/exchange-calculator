@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>header-logo3.png</file>
+        <file>nd2_logo3.png</file>
+        <file>partner-logo-platinum-bank-300x124.png</file>
+        <file>Platon_rajffazen_bank.png</file>
+        <file>pumb_icon.png</file>
+        <file>ukreksim-1-big.png</file>
+        <file>company_logo.png</file>
+        <file>privatbank (1).png</file>
+        <file>f8275003f69d79861b10e7d4ec1560bc.png</file>
+        <file>Bank Lviv logo.PNG</file>
+        <file>logo-credit-agricole-2.png</file>
+        <file>smallLogo_709.png</file>
+        <file>ukrsub@3x.png</file>
+        <file>UniCredit-Bank-Logo.png</file>
+    </qresource>
+</RCC>
